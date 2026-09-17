@@ -11,16 +11,25 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AppReceitas">
+
+        <!-- Atividade Principal: Agenda de Contatos -->
         <activity
-            android:name="com.example.calculadora.MainActivity"
+            android:name="com.example.agenda_contatos.MainActivity"
             android:exported="true"
             android:windowSoftInputMode="adjustResize">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <!-- Outras atividades do projeto -->
+        <activity
+            android:name="com.example.calculadora.MainActivity"
+            android:exported="false"
+            android:windowSoftInputMode="adjustResize">
+        </activity>
+
     </application>
 
 </manifest>

@@ -25,4 +25,5 @@ dependencyResolutionManagement {
 rootProject.name = "App-Receitas"
 include(":app")
 include(":app")
+include(":app")
  
