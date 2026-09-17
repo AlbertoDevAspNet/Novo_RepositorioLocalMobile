@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "762188941607",
+    "project_id": "cursoscaffold-d6e9ff12",
+    "storage_bucket": "cursoscaffold-d6e9ff12.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762188941607:android:e92b52effc11e424678102",
+        "android_client_info": {
+          "package_name": "com.example.app_receitas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx8OyL9oc86kmHqRGhfbKT2vu0f8JHmnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
